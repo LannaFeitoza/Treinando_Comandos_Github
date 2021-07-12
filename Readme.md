@@ -23,3 +23,19 @@
     <li>git push origin master //nesse aqui  já não precisa mais do -u
 </ol>
 
+
+### Explicando comandos
+
+<ul>
+    <li>git init //cria repositório
+    <li>git add (nome arquivo) //vai passa o arquivo especifico para o estado stage
+    <li>git status //verifica se os arquivos estão prontos para commitar
+    <li>git commit -m "" //dá o commit e coloca uma identificação nele
+    <li>git branch -M "main" //muda a branch para main
+    <li>git remote add origin (link.git) //vai nomear a sua URL para origin
+    <li>git push -u origin (branch) //vai conectar e mandar pela primeira vez seu código
+    <li>git add . //ou git add *  //vai mudar todos os arquivos para estado stage
+    <li>git config --global user.name (nome) //vai por seu nome como autor
+    <li>git config --global user.email (email) //vai por seu email
+</ul>
+
