@@ -38,4 +38,19 @@
     <li>git config --global user.name (nome) //vai por seu nome como autor
     <li>git config --global user.email (email) //vai por seu email
 </ul>
+<pre>
+
+asdasd
+
+​                                        qe12312  
+
+ 2312                         23
+
+
+
+3223</pre>
+
+
+
+
 
